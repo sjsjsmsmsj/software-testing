@@ -4,7 +4,7 @@ GIẢI NGỐ GITHUB - GITHUB FOR BEGINER
 1. CẦN CÓ 1 ACCOUNT TRÊN GITHUB/GITLAB/BITBUCKET
    - account gồm: email; pass; tên-git-hub-của-bạn - là 1 phần của URL
    - dùng email cá nhân; 
-   - tên GH dễ gọi, dễ đọc, viết chữ thườngg 
+   - tên GH dễ gọi, dễ đọc, viết chữ thường
 
 2. TẢI TOOL VỀ MÁY ĐỂ GÕ LỆNH ĐỒNG BỘ CODE LÊN SERVER GH
    - tải tool ở: https://git-scm.com/downloads (SCM là gì???)
