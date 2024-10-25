@@ -8,4 +8,4 @@
 ### Cảm ơn bạn đã xem qua GitHub của mình hihi 
 
 #### © 2024 GitHub, Inc.
-
+* [![CI with GitHub Actions using Ant and JUnit | © 2024 by Lam_Gia_Thinh](https://github.com/sjsjsmsmsj/software-testing/actions/workflows/ci-junit.yml/badge.svg)](https://github.com/sjsjsmsmsj/software-testing/actions/workflows/ci-junit.yml)
