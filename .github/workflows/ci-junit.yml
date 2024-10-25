@@ -25,7 +25,7 @@ jobs:
           distribution: 'temurin'
      
       - name: Build project with Ant
-        run: ant -noinput -buildfile build.xml
+        run: ant -noinput -buildfile project/build.xml
       
       - name: Distribute jar-war file
         run: mkdir staging && cp dist/*.jar staging
